@@ -1,0 +1,56 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+   <vType id="SUMO_DEFAULT_TYPE" accel="0.8" decel="4.5" sigma="0" length="5" minGap="2" maxSpeed="75"/>
+   <vType id="SUMO_DEFAULT_TYPE2" accel="0.8" decel="4.5" sigma="0" length="5" minGap="2" maxSpeed="75" color="1,0,0"/>
+   <vType id="SUMO_DEFAULT_TYPE3" accel="0.8" decel="4.5" sigma="0" length="5" minGap="2" maxSpeed="75" color="0,1,0"/>
+   <vType id="SUMO_DEFAULT_TYPE4" accel="0.8" decel="4.5" sigma="0" length="5" minGap="2" maxSpeed="75" color="0,0,1"/>
+
+   <route id="always_right_original" edges="1i 4o 4i 2o 2i 3o 3i 1o 1i"/>
+
+   <!-- WEST 1i -->
+   <!-- 180 EAST ind:3-->
+   <route id="always_right2" edges="1i E2 E1 2o" />
+   <flow id="always_right2" type="SUMO_DEFAULT_TYPE" route="always_right2" begin="0" end="120000" vehsPerHour="300"/>
+
+   <!-- SOUTH 3i ind:2-->
+   <!-- 180 NORTH -->
+   <route id="always_right5" edges="3i E1 E0 4o" />
+   <flow id="always_right5" type="SUMO_DEFAULT_TYPE2" route="always_right5" begin="0" end="120000" vehsPerHour="300"/>
+
+   <!-- EAST 2i ind:1-->
+   <!-- 180 WEST -->
+   <route id="always_right8" edges="2i E0 E3 1o" />
+   <flow id="always_right8" type="SUMO_DEFAULT_TYPE3" route="always_right8" begin="0" end="120000" vehsPerHour="60"/>
+
+   <!-- NORTH 4i ind:0-->
+   <!-- 180 SOUTH -->
+   <route id="always_right11" edges="4i E3 E2 3o" />
+   <flow id="always_right11" type="SUMO_DEFAULT_TYPE4" route="always_right11" begin="0" end="120000" vehsPerHour="300"/>
+
+
+   <!--
+   <route id="always_right2" edges="4i E3 E2 E1 2o"/>
+   <flow id="always_right2" type="SUMO_DEFAULT_TYPE2" route="always_right2" begin="0" end="5000" period="5"/>
+
+   <route id="always_right3" edges="2i E0 E3 E2 3o"/>
+   <flow id="always_right3" type="SUMO_DEFAULT_TYPE3" route="always_right3" begin="0" end="5000" period="1"/>
+
+   <route id="always_right4" edges="3i E1 E0 E3 1o"/>
+   <flow id="always_right4" type="SUMO_DEFAULT_TYPE4" route="always_right4" begin="0" end="5000" period="5"/>
+-->
+<!--
+   <route id="always_left_original" edges="3i 2o 2i 4o 4i 1o 1i 3o 3i"/>
+   
+   <route id="always_left" edges="3i E1 2o 2i E0 4o 4i E3 1o 1i E2 3o 3i"/>   
+   <flow id="always_left" type="SUMO_DEFAULT_TYPE" route="always_left" begin="0" end="5000" period="10"/>
+   
+   <route id="horizontal_original" edges="2i 1o 1i 2o 2i"/>
+
+   <route id="horizontal" edges="2i E0 E3 1o 1i E2 E1 2o 2i"/>   
+   <flow id="horizontal" type="SUMO_DEFAULT_TYPE" route="horizontal" begin="0" end="5000" period="10"/>
+
+   <route id="vertical_original" edges="3i 4o 4i 3o 3i"/>
+   
+   <route id="vertical" edges="3i E1 E0 4o 4i E3 E2 3o 3i"/>
+   <flow id="vertical" type="SUMO_DEFAULT_TYPE" route="vertical" begin="0" end="5000" period="10"/>
+   -->
+</routes>
