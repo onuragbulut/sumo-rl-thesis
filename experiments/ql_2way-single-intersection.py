@@ -97,14 +97,14 @@ def draw2(step_list, item_list_train, chart_name, y_label, y_lim=-1, enable_vert
     plt.show()
 
 
-def print_q_table(q_table_param):
+def print_q_table(q_table_param, q_table_file_path):
     for inner_agent_id in q_table_param.keys():
         current_q_table = q_table_param[inner_agent_id]
         new_q_table = {}
         for key in current_q_table.keys():
             new_q_table[str(key)] = current_q_table[key]
 
-        q_table_file_path = '../outputs/2way-single-roundabout_{}/q_table/{}_q_table.txt'.format(EXPERIMENT_NO, EXPERIMENT_NO)
+        #q_table_file_path = '../outputs/2way-single-roundabout_{}/q_table/{}_q_table.txt'.format(EXPERIMENT_NO, EXPERIMENT_NO)
         Path(Path(q_table_file_path).parent).mkdir(parents=True, exist_ok=True)
         with open(q_table_file_path, 'w') as convert_file:
             convert_file.write(json.dumps(new_q_table))
@@ -132,9 +132,12 @@ if __name__ == '__main__':
     prs.add_argument("-experimentno", dest="experiment_no", type=str, required=True, help="Number of experiment.\n")
     prs.add_argument("-scenariono", dest="scenario_no", type=str, required=True, help="Number of scenario.\n")
     prs.add_argument("-seed", dest="seed", type=int, required=True, help="Seed.\n")
+    prs.add_argument("-qtable", dest="qtable", type=str, required=True, help="Q-Table File path.\n")
+
     args = prs.parse_args()
     EXPERIMENT_NO = args.experiment_no
     SCENARIO_NO = args.scenario_no
+    print("TRAINING Q_table: {}".format(args.qtable))
     # experiment_time = str(datetime.now()).split('.')[0]
     experiment_time = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
     #out_csv = '../outputs/2way-single-intersection/{}_alpha{}_gamma{}_eps{}_decay{}_reward{}'.format(experiment_time, args.alpha, args.gamma, args.epsilon, args.decay, args.reward)
@@ -888,4 +891,4 @@ if __name__ == '__main__':
     ##draw2(list(), result_average_noise_emission_list, chart_name='METRIC: Training Episode J0 Avg. Noise Emission', y_label="Seconds", draw_avg=False)
 
 
-    print_q_table(q_table)
+    print_q_table(q_table, args.qtable)

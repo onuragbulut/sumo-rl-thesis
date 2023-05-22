@@ -137,10 +137,12 @@ if __name__ == '__main__':
     prs.add_argument("-scenariono", dest="scenario_no", type=str, required=True, help="Number of scenario.\n")
     prs.add_argument("-seed", dest="seed", type=int, required=True, help="Seed.\n")
     prs.add_argument("-csvfile", dest="csv_file", type=str, required=True, help="CSV file path.\n")
+    prs.add_argument("-qtable", dest="qtable", type=str, required=True, help="Q-Table File path.\n")
     args = prs.parse_args()
     EXPERIMENT_NO = args.experiment_no
     SCENARIO_NO = args.scenario_no
     #metrics = [run, EXPERIMENT_NO, training_seed, testing_seed, lr, dr, e, rt]
+    print("TESTING Q_table: {}".format(args.qtable))
 
     metrics = [args.run_no, EXPERIMENT_NO, args.route, "testing", "-", args.seed, args.alpha, args.gamma, args.epsilon, args.reward]
     # experiment_time = str(datetime.now()).split('.')[0]
@@ -172,7 +174,8 @@ if __name__ == '__main__':
                         datefmt="%F %A %T",
                         level=logging.INFO)
     #q_table_file_path = '../outputs/2way-single-roundabout_{}/q_table/{}_q_table_2023-02-20-18-13-37_agentJ0_alpha0.1_gamma0.99_eps0.4_decay1.0_rewardwait_run5.txt'.format(EXPERIMENT_NO, EXPERIMENT_NO)
-    q_table_file_path = '../outputs/2way-single-roundabout_{}/q_table/{}_q_table.txt'.format(EXPERIMENT_NO, EXPERIMENT_NO)
+    #q_table_file_path = '../outputs/2way-single-roundabout_{}/q_table/{}_q_table.txt'.format(EXPERIMENT_NO, EXPERIMENT_NO)
+    q_table_file_path = args.qtable
     with open(q_table_file_path, 'r') as f:
         data = json.load(f)
 

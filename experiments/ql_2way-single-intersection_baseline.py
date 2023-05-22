@@ -132,6 +132,8 @@ if __name__ == '__main__':
     prs.add_argument("-scenariono", dest="scenario_no", type=str, required=True, help="Number of scenario.\n")
     prs.add_argument("-seed", dest="seed", type=int, required=True, help="Seed.\n")
     prs.add_argument("-csvfile", dest="csv_file", type=str, required=True, help="CSV file path.\n")
+    prs.add_argument("-qtable", dest="qtable", type=str, required=True, help="Q-Table File path.\n")
+
     args = prs.parse_args()
     EXPERIMENT_NO = args.experiment_no
     SCENARIO_NO = args.scenario_no
