@@ -110,6 +110,5 @@ venv.bak/
 settings.json
 
 # output files
-*.csv
 /logs
 /wandb
