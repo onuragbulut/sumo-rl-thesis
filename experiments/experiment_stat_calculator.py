@@ -12,13 +12,13 @@ headers = ['RunNo', 'ExperimentNo', 'Scenario', 'Type', 'InitialTrainingSeed', '
 
 
 for scenario in range(1, 9):
-    csv_output_file_path = '../outputs/DE-Enhanced/DE-Enhanced-Scenario-{}.csv'.format(scenario)
+    csv_output_file_path = '../outputs/DE-Enhanced-S2/DE-Enhanced-S2-Scenario-{}.csv'.format(scenario)
     output_file_content_test = []
     output_file_content_baseline = []
     output_file_header = []
 
     for index in range(1, 6):
-        csv_input_file_path = '../outputs/DE-Enhanced/DE-Enhanced-{}-reduced.csv'.format(index)
+        csv_input_file_path = '../outputs/DE-Enhanced-S2/DE-Enhanced-S2-{}-reduced.csv'.format(index)
 
         with open(csv_input_file_path, newline='\n') as file:
             csv_reader = csv.reader(file, delimiter=',')
