@@ -1,0 +1,80 @@
+2023-03-08 Wednesday 06:55:47: Run: 3 for Training experiment: DoE-38 - first seed: 370 - alpha: 0.5 - gamma: 0.8 - epsilon: 0.2 - reward: average-speed-2
+2023-03-08 Wednesday 07:13:47: Run: 1 - First Epsilon: 0.2 - Last Epsilon: 0.2
+2023-03-08 Wednesday 07:29:35: Run: 2 - First Epsilon: 0.2 - Last Epsilon: 0.2
+2023-03-08 Wednesday 07:45:10: Run: 3 - First Epsilon: 0.2 - Last Epsilon: 0.2
+2023-03-08 Wednesday 07:59:05: Run: 4 - First Epsilon: 0.2 - Last Epsilon: 0.2
+2023-03-08 Wednesday 08:12:18: Run: 5 - First Epsilon: 0.2 - Last Epsilon: 0.2
+2023-03-08 Wednesday 08:12:18: Q-Table Total Distinct States: 935
+2023-03-08 Wednesday 08:12:18: Mean_reward=13601.63 +/- 1626.07
+2023-03-08 Wednesday 08:12:18: Mean_Stopped=790563.80 +/- 120744.77
+2023-03-08 Wednesday 08:12:18: Mean_Stopped=790805.40 +/- 120780.85
+2023-03-08 Wednesday 08:12:18: Mean_waiting_time=41548774.00 +/- 18081249.34
+2023-03-08 Wednesday 08:12:18: Mean_avg_speed=732.45 +/- 88.35
+2023-03-08 Wednesday 08:12:18: Mean_avg_speed_2=13601.63 +/- 1626.07
+2023-03-08 Wednesday 08:12:18: Mean_avg_speed_cross_check=23418.20 +/- 2522.85
+2023-03-08 Wednesday 08:12:18: ****************************************
+2023-03-08 Wednesday 08:12:18: Calculation 1 - Overall 
+2023-03-08 Wednesday 08:12:18: ****************************************
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Reward= 1.360 +/- 0.518
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Stopped= 79.048 +/- 16.856
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Stopped Cross Check= 79.073 +/- 16.854
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Waiting Time= 4154.462 +/- 4918.477
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Avg Speed= 0.073 +/- 0.028
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Avg Speed 2= 1.360 +/- 0.518
+2023-03-08 Wednesday 08:12:18: Inner X Outer Loops Mean Avg Speed Cross Check= 2.342 +/- 0.610
+2023-03-08 Wednesday 08:12:18: ****************************************
+2023-03-08 Wednesday 08:12:18: Calculation 2 - Per Episode
+2023-03-08 Wednesday 08:12:18: ****************************************
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Reward= 1.109 +/- 0.506
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Reward= 1.267 +/- 0.482
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Reward= 1.370 +/- 0.488
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Reward= 1.477 +/- 0.468
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Reward= 1.576 +/- 0.515
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Reward= 1.360 +/- 0.163
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Reward= 1.360 +/- 0.492
+2023-03-08 Wednesday 08:12:18: ****
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Stopped= 99.187 +/- 15.584
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Stopped= 84.549 +/- 11.796
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Stopped= 77.003 +/- 10.982
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Stopped= 69.544 +/- 9.575
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Stopped= 64.960 +/- 9.875
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Stopped= 79.048 +/- 12.073
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Stopped= 79.048 +/- 11.562
+2023-03-08 Wednesday 08:12:18: ****
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Stopped Cross Check= 99.220 +/- 15.579
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Stopped Cross Check= 84.571 +/- 11.790
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Stopped Cross Check= 77.023 +/- 10.973
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Stopped Cross Check= 69.568 +/- 9.565
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Stopped Cross Check= 64.981 +/- 9.870
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Stopped Cross Check= 79.073 +/- 12.077
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Stopped Cross Check= 79.073 +/- 11.555
+2023-03-08 Wednesday 08:12:18: ****
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Waiting Time= 7595.493 +/- 8696.896
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Waiting Time= 4112.197 +/- 3614.851
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Waiting Time= 3679.717 +/- 3142.104
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Waiting Time= 2708.252 +/- 1735.456
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Waiting Time= 2676.651 +/- 1739.536
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Waiting Time= 4154.462 +/- 1807.944
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Waiting Time= 4154.462 +/- 3785.769
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Avg Speed= 0.060 +/- 0.027
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Avg Speed= 0.068 +/- 0.025
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Avg Speed= 0.074 +/- 0.026
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Avg Speed= 0.080 +/- 0.025
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Avg Speed= 0.085 +/- 0.027
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Avg Speed= 0.073 +/- 0.009
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Avg Speed= 0.073 +/- 0.026
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Avg Speed 2= 1.109 +/- 0.506
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Avg Speed 2= 1.267 +/- 0.482
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Avg Speed 2= 1.370 +/- 0.488
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Avg Speed 2= 1.477 +/- 0.468
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Avg Speed 2= 1.576 +/- 0.515
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Avg Speed 2= 1.360 +/- 0.163
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Avg Speed 2= 1.360 +/- 0.492
+2023-03-08 Wednesday 08:12:18: Episode:0 Mean Avg Speed Cross Check= 1.949 +/- 0.580
+2023-03-08 Wednesday 08:12:18: Episode:1 Mean Avg Speed Cross Check= 2.201 +/- 0.553
+2023-03-08 Wednesday 08:12:18: Episode:2 Mean Avg Speed Cross Check= 2.360 +/- 0.557
+2023-03-08 Wednesday 08:12:18: Episode:3 Mean Avg Speed Cross Check= 2.525 +/- 0.520
+2023-03-08 Wednesday 08:12:18: Episode:4 Mean Avg Speed Cross Check= 2.673 +/- 0.563
+2023-03-08 Wednesday 08:12:18: 1-Total Mean Avg Speed Cross Check= 2.342 +/- 0.252
+2023-03-08 Wednesday 08:12:18: 2-Total Mean Avg Speed Cross Check= 2.342 +/- 0.555
+2023-03-08 Wednesday 08:12:18: ****************************************

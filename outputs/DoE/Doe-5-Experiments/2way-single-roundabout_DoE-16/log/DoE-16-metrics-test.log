@@ -1,0 +1,340 @@
+2023-03-15 Wednesday 00:13:26 root:INFO:Run: 5 for Testing experiment: DoE-16 - first seed: 580 - alpha: 0.1 - gamma: 0.99 - epsilon: 0.3 - reward: average-speed-2
+2023-03-15 Wednesday 00:29:16 root:INFO:Total Distinct Missing States: 291
+2023-03-15 Wednesday 00:29:16 root:INFO:Total Non-Distinct Missing States: 1714
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 7, 6, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 7, 6, 2): 14
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 6, 6, 2): 14
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 6, 7, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 6, 6, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 6, 6, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 6, 6, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 6, 6, 2): 13
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 6, 6, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 5, 6, 2): 12
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 6, 6, 2): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 6, 6, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 5, 6, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 6, 5, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 6, 5, 2): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 6, 5, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 5, 5, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 5, 5, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 4, 6, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 4, 5, 2): 15
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 5, 5, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 5, 5, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 4, 5, 2): 13
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 5, 5, 2): 12
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 4, 5, 2): 19
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 4, 4, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 4, 4, 5, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 4, 4, 5, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 4, 4, 4, 2): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 4, 4, 4, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 4, 4, 4, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 5, 4, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 5, 4, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 5, 4, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 4, 4, 2): 34
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 4, 4, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 4, 4, 2): 22
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 4, 4, 2): 24
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 4, 4, 2): 18
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 3, 4, 2): 15
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 3, 4, 2): 27
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 3, 4, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 4, 3, 4, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 3, 4, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 3, 4, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 3, 3, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 3, 3, 3): 31
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 3, 4, 3): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 3, 3, 3): 16
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 4, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 4, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 3, 3, 3): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 4, 3, 3): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 3, 3, 3): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 3, 3, 3): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 4, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 3, 3, 3): 31
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 3, 4, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 3, 4, 3): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 3, 4, 3): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 3, 3, 3): 17
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 3, 3, 3): 17
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 3, 3, 3): 19
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 3, 3, 3): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 3, 3): 19
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 2, 3, 3): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 3, 3): 12
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 2, 3, 3): 26
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 2, 3, 3): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 2, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 2, 3): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 3, 2, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 3, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 2, 3): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 2, 2, 3): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 2, 2, 3): 13
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 2, 3): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 3, 2, 2, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 2, 2): 42
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 3, 2, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 3, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 2, 2): 14
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 3, 2): 19
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 3, 2): 18
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 2, 3, 2): 21
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 2, 2, 2): 24
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 2, 2, 2): 23
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 2, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 2, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 3, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 3, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 2, 2, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 2, 2, 2): 28
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 2, 2): 37
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 2, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 1, 3, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 1, 2, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 1, 2, 2, 2): 22
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 1, 2, 2): 14
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 1, 2, 2): 16
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 1, 2, 2): 35
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 1, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 1, 1, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 1, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 1, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 1, 1, 2, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 1, 1, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 1, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 1, 1, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 1, 1, 1, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 1, 2, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 1, 2, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 2, 1): 15
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 1, 2, 1, 1): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 2, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 7, 6, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 5, 6, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 5, 6, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 5, 5, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 5, 5, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 5, 5, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 4, 4, 4, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 4, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 4, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 5, 4, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 5, 4, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 4, 4, 4, 2): 9
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 4, 3, 4, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 4, 3, 4, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 4, 4, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 3, 4, 3): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 4, 3, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 4, 3, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 4, 3, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 3, 4, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 4, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 4, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 4, 3, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 4, 3, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 4, 4, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 4, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 4, 3, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 3, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 3, 4, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 3, 4, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 3, 3, 3): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 3, 3, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 3, 4, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 3, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 3, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 3, 4): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 3, 4): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 3, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 2, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 2, 3, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 3, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 3, 3, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 2, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 2, 2, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 3, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 3, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 3, 2, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 2, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 1, 2, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 3, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 2, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 2, 3, 3): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 2, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 2, 2, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 3, 2, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 3, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 2, 3, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 2, 1, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 1, 2, 1, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 1, 1, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 2, 1, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 2, 1, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 1, 2): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 2, 1, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 1, 1, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 1, 1, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 1, 1, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 1, 1): 13
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 4, 6, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 4, 5, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 4, 5, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 4, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 3, 3, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 4, 3, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 4, 3, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 4, 3, 4, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 3, 4, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 4, 4, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 4, 4, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 4, 3, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 3, 4, 3, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 4, 3, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 3, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 3, 3, 2): 13
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 4, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 2, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 3, 3, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 3, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 3, 2, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 3, 2, 2, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 3, 3, 2): 10
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 1, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 1, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 2, 2, 1): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 2, 0): 8
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 2, 0): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 1, 2, 2, 0): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 2, 0): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 2, 0): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 2, 2, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 1, 2, 2, 0): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 1, 2, 2, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 2, 1): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 2, 2, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 7, 7, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 7, 7, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 7, 7, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 6, 7, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 7, 6, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 6, 7, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 6, 7, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 5, 6, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 5, 6, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 4, 5, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 4, 5, 4, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 4, 4, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 4, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 3, 3, 2, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 3, 3, 2, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 3, 3, 2): 11
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 2, 1, 0): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 1, 0): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 1, 1, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 1, 3, 1, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 2, 1, 0): 5
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 3, 1, 0): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 0, 2, 2, 1, 0): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 5, 6, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 6, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 4, 5, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 2, 4, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 3, 5, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 4, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 3, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 3, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 3, 3, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 2, 2, 3): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 1, 2, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 1, 2, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 1, 2, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 2, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 1, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 1, 3, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 2, 1, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 1, 1, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 3, 1, 1): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 2, 2, 1): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 1, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 2, 1, 1): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 3, 3, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 3, 3, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 3, 3, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 1, 3, 3, 3): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 3, 3, 3): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 1, 3, 3, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 3, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 2, 2, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 1, 2, 2, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 3, 3, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 2, 3, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 2, 3, 2, 2): 6
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 2, 3, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 2, 2, 3, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 3, 2, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 0, 3, 2, 2, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 3, 2, 2, 2): 4
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 3, 2, 2, 2): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 1, 3, 2, 2, 2): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 1, 3, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(2, 0, 1, 1, 2, 3): 2
+2023-03-15 Wednesday 00:29:16 root:INFO:(1, 1, 1, 1, 3, 2): 3
+2023-03-15 Wednesday 00:29:16 root:INFO:(3, 0, 2, 2, 1, 2): 7
+2023-03-15 Wednesday 00:29:16 root:INFO:(0, 1, 1, 3, 2, 0): 1
+2023-03-15 Wednesday 00:29:16 root:INFO:********************
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean Reward=14070.79 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean Stopped=859349.00 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean_Stopped=859400.00 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean Waiting Time=9052727977.00 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean_avg_speed=758.88 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean_avg_speed_2=14070.79 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:Mean_avg_speed_cross_check=22459.14 +/- 0.00
+2023-03-15 Wednesday 00:29:16 root:INFO:****************************************
+2023-03-15 Wednesday 00:29:16 root:INFO:Calculation 1 - Overall 
+2023-03-15 Wednesday 00:29:16 root:INFO:****************************************
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Reward=1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Stopped= 85.926 +/- 32.234
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 85.931 +/- 32.228
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Waiting Time= 905182.279 +/- 815106.663
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.076 +/- 0.069
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 2.246 +/- 1.620
+2023-03-15 Wednesday 00:29:16 root:INFO:****************************************
+2023-03-15 Wednesday 00:29:16 root:INFO:Calculation 2 - Per Episode
+2023-03-15 Wednesday 00:29:16 root:INFO:****************************************
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Waiting Time=1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Reward= 1.407 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Reward= 1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:****
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Stopped= 85.926 +/- 32.234
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Stopped= 85.926 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Stopped= 85.926 +/- 32.234
+2023-03-15 Wednesday 00:29:16 root:INFO:****
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Stopped Cross Check= 85.931 +/- 32.228
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Stopped Cross Check= 85.931 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Stopped Cross Check= 85.931 +/- 32.228
+2023-03-15 Wednesday 00:29:16 root:INFO:****
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Waiting Time= 905182.279 +/- 815106.663
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Waiting Time= 905182.279 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Waiting Time= 905182.279 +/- 815106.663
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Avg Speed= 0.076 +/- 0.069
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Avg Speed= 0.076 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Avg Speed= 0.076 +/- 0.069
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Avg Speed 2= 1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Avg Speed 2= 1.407 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Avg Speed 2= 1.407 +/- 1.288
+2023-03-15 Wednesday 00:29:16 root:INFO:Episode:0 Mean Avg Speed Cross Check= 2.246 +/- 1.620
+2023-03-15 Wednesday 00:29:16 root:INFO:1-Total Mean Avg Speed Cross Check= 2.246 +/- 0.000
+2023-03-15 Wednesday 00:29:16 root:INFO:2-Total Mean Avg Speed Cross Check= 2.246 +/- 1.620
+2023-03-15 Wednesday 00:29:16 root:INFO:****************************************

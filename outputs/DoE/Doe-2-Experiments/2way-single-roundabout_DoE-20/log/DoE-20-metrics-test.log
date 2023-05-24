@@ -1,0 +1,284 @@
+2023-03-04 Saturday 09:45:27 root:INFO:Run: 2 for Testing experiment: DoE-20 - first seed: 280 - alpha: 0.3 - gamma: 0.8 - epsilon: 0.2 - reward: average-speed-2
+2023-03-04 Saturday 09:59:48 root:INFO:Total Distinct Missing States: 235
+2023-03-04 Saturday 09:59:48 root:INFO:Total Non-Distinct Missing States: 2709
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 5, 5, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 5, 5, 2): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 5, 6, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 5, 6, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 5, 6, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 5, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 5, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 5, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 4, 5, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 4, 5, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 4, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 5, 4, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 4, 4, 2): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 4, 4, 2): 12
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 3, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 3, 4, 2): 14
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 4, 4, 2): 9
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 4, 4, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 4, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 3, 4, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 3, 3, 4, 2): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 3, 3, 4, 2): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 4, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 3, 3, 4, 2): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 3, 3, 2): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 3, 3, 3, 2): 15
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 3, 4, 3, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 3, 4, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 3, 3, 3, 2): 12
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 3, 3, 2): 20
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 3, 2): 40
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 3, 3, 3, 2): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 3, 3, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 3, 3, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 3, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 3, 3, 2): 17
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 3, 3, 2): 17
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 3, 3, 2): 13
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 4, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 2, 3, 2): 51
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 3, 2): 10
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 2, 3, 2): 28
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 3, 2, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 3, 2, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 3, 2, 3, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 3, 2): 9
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 2, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 3, 3, 3): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 3, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 3, 3): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 3, 2, 3, 3): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 3, 2, 3, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 3, 3, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 3, 3, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 2, 3, 3): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 3, 3): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 2, 3, 3): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 2, 3, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 3, 3): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 2, 3, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 2, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 3, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 3, 3, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 3, 2): 36
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 2, 2, 2): 57
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 2, 2): 61
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 2, 2, 2): 84
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 2, 2, 2): 48
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 2, 2, 2): 151
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 1, 2, 2): 66
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 2, 2, 3): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 2, 2, 3): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 2, 2): 12
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 2, 2, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 1, 2, 2, 2): 90
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 1, 2, 2): 126
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 1, 2, 2): 17
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 2, 1, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 1, 2, 1, 2): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 2, 1, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 2, 1, 2): 16
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 1, 2, 2): 58
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 1, 1, 2): 12
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 1, 1, 2): 30
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 1, 1, 2): 25
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 2, 1, 1): 12
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 2, 2, 2): 27
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 2, 2, 2): 28
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 1, 2, 2): 9
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 1, 2, 2): 21
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 1, 1, 2, 2): 43
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 1, 2, 2): 20
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 2, 2, 2): 49
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 1, 2, 2): 24
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 1, 2, 2): 20
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 2, 1, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 2, 1, 2): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 1, 1, 2): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 1, 1, 2): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 3, 3, 2): 10
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 3, 3, 2): 18
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 2, 3, 2): 21
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 2, 3, 2): 16
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 2, 3, 2): 23
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 1, 3, 2, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 3, 2, 2): 13
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 3, 2, 2): 9
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 2, 2, 2): 20
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 2, 1, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 4, 4, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 4, 4, 2): 16
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 4, 5, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 4, 5, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 4, 4, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 4, 4, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 3, 4, 2): 14
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 4, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 4, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 4, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 4, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 2, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 2, 3, 2): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 2, 2, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 2, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 2, 2, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 2, 2, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 1, 2, 2): 14
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 2, 2, 1): 9
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 2, 2): 13
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 1, 3, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 1, 3, 2): 10
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 1, 3, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 1, 2, 1): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 3, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 3, 3, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 4, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 4, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 4, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 3, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 3, 2, 2): 18
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 1, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 2, 1): 23
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 2, 1, 1): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 3, 2, 1): 20
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 3, 2, 1): 42
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 2, 1): 14
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 4, 2, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 1, 4, 2, 1): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 2, 1): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 2, 1): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 3, 2, 1): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 1, 4, 1, 0): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 4, 1, 0): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 3, 2, 0): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 2, 0): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 2, 2, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 3, 2, 1): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 2, 2, 1): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 4, 1): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 3, 4, 1): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 3, 4, 2): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 2, 4, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 3, 4, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 3, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 3, 2, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 2, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 2, 3, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 1, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 1, 2, 2): 7
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 1, 1, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 1, 1, 1): 8
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 1, 1): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 1, 1, 1): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 4, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 1, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 1, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 1, 1): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 2, 2, 1): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 4, 4, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 4, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 3, 2, 3, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 3, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 3, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 1, 2, 2, 3): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 2, 2, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 2, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 1, 2, 2): 11
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 1, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 2, 1, 2, 1): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 1, 3, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 1, 1, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 1, 1, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 1, 2): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 5, 2, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 5, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 4, 5, 2): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 5, 4, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 4, 5, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 3, 4, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 3, 2, 3, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 3, 2, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 3, 2, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 3, 2, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 1, 2, 2): 5
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 1, 2, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 3, 2, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 3, 2, 2): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 1, 3, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 1, 2, 1): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 1, 2, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 1, 2, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 2, 1, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 2, 3, 2, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 2, 3, 1, 1): 4
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 3, 1, 1): 6
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 3, 1, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 2, 2, 1, 1): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 4, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 3, 3, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 2, 2, 2, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 2, 2, 2, 3): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 2, 3, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 0, 1, 1, 1, 2): 3
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 1, 1, 1, 2, 3): 2
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 1, 1, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(1, 0, 2, 1, 3, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 1, 3, 2, 2, 2): 1
+2023-03-04 Saturday 09:59:48 root:INFO:(0, 1, 1, 8, 9, 3): 53
+2023-03-04 Saturday 09:59:48 root:INFO:(2, 0, 1, 9, 8, 3): 106
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 0, 1, 9, 8, 3): 106
+2023-03-04 Saturday 09:59:48 root:INFO:(3, 1, 1, 9, 8, 2): 106
+2023-03-04 Saturday 09:59:48 root:INFO:********************
+2023-03-04 Saturday 09:59:48 root:INFO:Mean Reward=20004.90 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean Stopped=743628.00 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean_Stopped=744091.00 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean Waiting Time=53673674.00 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean_avg_speed=1075.61 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean_avg_speed_2=20004.90 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:Mean_avg_speed_cross_check=30748.74 +/- 0.00
+2023-03-04 Saturday 09:59:48 root:INFO:****************************************
+2023-03-04 Saturday 09:59:48 root:INFO:Calculation 1 - Overall 
+2023-03-04 Saturday 09:59:48 root:INFO:****************************************
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Reward=2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Stopped= 74.355 +/- 38.476
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 74.402 +/- 38.491
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Waiting Time= 5366.831 +/- 3618.656
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.108 +/- 0.079
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 3.075 +/- 1.808
+2023-03-04 Saturday 09:59:48 root:INFO:****************************************
+2023-03-04 Saturday 09:59:48 root:INFO:Calculation 2 - Per Episode
+2023-03-04 Saturday 09:59:48 root:INFO:****************************************
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Waiting Time=2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Reward= 2.000 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Reward= 2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:****
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Stopped= 74.355 +/- 38.476
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Stopped= 74.355 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Stopped= 74.355 +/- 38.476
+2023-03-04 Saturday 09:59:48 root:INFO:****
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Stopped Cross Check= 74.402 +/- 38.491
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Stopped Cross Check= 74.402 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Stopped Cross Check= 74.402 +/- 38.491
+2023-03-04 Saturday 09:59:48 root:INFO:****
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Waiting Time= 5366.831 +/- 3618.656
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Waiting Time= 5366.831 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Waiting Time= 5366.831 +/- 3618.656
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Avg Speed= 0.108 +/- 0.079
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Avg Speed= 0.108 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Avg Speed= 0.108 +/- 0.079
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Avg Speed 2= 2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Avg Speed 2= 2.000 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Avg Speed 2= 2.000 +/- 1.457
+2023-03-04 Saturday 09:59:48 root:INFO:Episode:0 Mean Avg Speed Cross Check= 3.075 +/- 1.808
+2023-03-04 Saturday 09:59:48 root:INFO:1-Total Mean Avg Speed Cross Check= 3.075 +/- 0.000
+2023-03-04 Saturday 09:59:48 root:INFO:2-Total Mean Avg Speed Cross Check= 3.075 +/- 1.808
+2023-03-04 Saturday 09:59:48 root:INFO:****************************************

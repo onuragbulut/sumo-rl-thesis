@@ -1,0 +1,25 @@
+2023-02-09 Thursday 13:16:14 root:INFO:Total Missing States: 0
+2023-02-09 Thursday 13:16:14 root:INFO:Mean Reward=-10.25 +/- 0.00
+2023-02-09 Thursday 13:16:14 root:INFO:Mean Stopped=518672.00 +/- 0.00
+2023-02-09 Thursday 13:16:14 root:INFO:Mean Waiting Time=11505940.00 +/- 0.00
+2023-02-09 Thursday 13:16:14 root:INFO:****************************************
+2023-02-09 Thursday 13:16:14 root:INFO:Calculation 1 - Overall 
+2023-02-09 Thursday 13:16:14 root:INFO:****************************************
+2023-02-09 Thursday 13:16:14 root:INFO:Inner X Outer Loops Mean Reward=-0.001 +/- 0.724
+2023-02-09 Thursday 13:16:14 root:INFO:Inner X Outer Loops Mean Stopped= 51.862 +/- 3.821
+2023-02-09 Thursday 13:16:14 root:INFO:Inner X Outer Loops Mean Waiting Time= 1150.479 +/- 112.442
+2023-02-09 Thursday 13:16:14 root:INFO:****************************************
+2023-02-09 Thursday 13:16:14 root:INFO:Calculation 2 - Per Episode
+2023-02-09 Thursday 13:16:14 root:INFO:****************************************
+2023-02-09 Thursday 13:16:14 root:INFO:Episode:0 Mean Waiting Time=-0.001 +/- 0.724
+2023-02-09 Thursday 13:16:14 root:INFO:1-Total Mean Reward= -0.001 +/- 0.000
+2023-02-09 Thursday 13:16:14 root:INFO:2-Total Mean Reward= -0.001 +/- 0.724
+2023-02-09 Thursday 13:16:14 root:INFO:****
+2023-02-09 Thursday 13:16:14 root:INFO:Episode:0 Mean Stopped= 51.862 +/- 3.821
+2023-02-09 Thursday 13:16:14 root:INFO:1-Total Mean Stopped= 51.862 +/- 0.000
+2023-02-09 Thursday 13:16:14 root:INFO:2-Total Mean Stopped= 51.862 +/- 3.821
+2023-02-09 Thursday 13:16:14 root:INFO:****
+2023-02-09 Thursday 13:16:14 root:INFO:Episode:0 Mean Waiting Time= 1150.479 +/- 112.442
+2023-02-09 Thursday 13:16:14 root:INFO:1-Total Mean Waiting Time= 1150.479 +/- 0.000
+2023-02-09 Thursday 13:16:14 root:INFO:2-Total Mean Waiting Time= 1150.479 +/- 112.442
+2023-02-09 Thursday 13:16:14 root:INFO:****************************************

@@ -1,0 +1,49 @@
+2023-03-06 Monday 07:53:32 root:INFO:Run: 3 for Testing experiment: DoE-1 - first seed: 380 - alpha: 0.1 - gamma: 0.8 - epsilon: 0.2 - reward: diff-waiting-time
+2023-03-06 Monday 07:58:33 root:INFO:Total Distinct Missing States: 0
+2023-03-06 Monday 07:58:33 root:INFO:Total Non-Distinct Missing States: 0
+2023-03-06 Monday 07:58:33 root:INFO:********************
+2023-03-06 Monday 07:58:33 root:INFO:Mean Reward=-1.20 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean Stopped=63643.00 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean_Stopped=63662.00 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean Waiting Time=900626.00 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean_avg_speed=3796.25 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean_avg_speed_2=70576.01 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:Mean_avg_speed_cross_check=81637.00 +/- 0.00
+2023-03-06 Monday 07:58:33 root:INFO:****************************************
+2023-03-06 Monday 07:58:33 root:INFO:Calculation 1 - Overall 
+2023-03-06 Monday 07:58:33 root:INFO:****************************************
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Reward=-0.000 +/- 0.555
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Stopped= 6.364 +/- 1.577
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 6.366 +/- 1.578
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Waiting Time= 90.054 +/- 46.751
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.380 +/- 0.057
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 7.057 +/- 0.984
+2023-03-06 Monday 07:58:33 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 8.163 +/- 0.614
+2023-03-06 Monday 07:58:33 root:INFO:****************************************
+2023-03-06 Monday 07:58:33 root:INFO:Calculation 2 - Per Episode
+2023-03-06 Monday 07:58:33 root:INFO:****************************************
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Waiting Time=-0.000 +/- 0.555
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Reward= -0.000 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Reward= -0.000 +/- 0.555
+2023-03-06 Monday 07:58:33 root:INFO:****
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Stopped= 6.364 +/- 1.577
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Stopped= 6.364 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Stopped= 6.364 +/- 1.577
+2023-03-06 Monday 07:58:33 root:INFO:****
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Stopped Cross Check= 6.366 +/- 1.578
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Stopped Cross Check= 6.366 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Stopped Cross Check= 6.366 +/- 1.578
+2023-03-06 Monday 07:58:33 root:INFO:****
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Waiting Time= 90.054 +/- 46.751
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Waiting Time= 90.054 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Waiting Time= 90.054 +/- 46.751
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Avg Speed= 0.380 +/- 0.057
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Avg Speed= 0.380 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Avg Speed= 0.380 +/- 0.057
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Avg Speed 2= 7.057 +/- 0.984
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Avg Speed 2= 7.057 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Avg Speed 2= 7.057 +/- 0.984
+2023-03-06 Monday 07:58:33 root:INFO:Episode:0 Mean Avg Speed Cross Check= 8.163 +/- 0.614
+2023-03-06 Monday 07:58:33 root:INFO:1-Total Mean Avg Speed Cross Check= 8.163 +/- 0.000
+2023-03-06 Monday 07:58:33 root:INFO:2-Total Mean Avg Speed Cross Check= 8.163 +/- 0.614
+2023-03-06 Monday 07:58:33 root:INFO:****************************************

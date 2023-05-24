@@ -1,0 +1,52 @@
+2023-01-29 Sunday 15:11:20 root:INFO:Total Missing States: 0
+2023-01-29 Sunday 15:11:20 root:INFO:Mean Reward=-191.71 +/- 6.72
+2023-01-29 Sunday 15:11:20 root:INFO:Mean Stopped=518891.60 +/- 258.67
+2023-01-29 Sunday 15:11:20 root:INFO:Mean Waiting Time=190264772.70 +/- 950939.00
+2023-01-29 Sunday 15:11:20 root:INFO:****************************************
+2023-01-29 Sunday 15:11:20 root:INFO:Calculation 1 - Overall 
+2023-01-29 Sunday 15:11:20 root:INFO:****************************************
+2023-01-29 Sunday 15:11:20 root:INFO:Inner X Outer Loops Mean Reward=-0.019 +/- 4.608
+2023-01-29 Sunday 15:11:20 root:INFO:Inner X Outer Loops Mean Stopped= 51.884 +/- 3.845
+2023-01-29 Sunday 15:11:20 root:INFO:Inner X Outer Loops Mean Waiting Time= 19024.575 +/- 2066.899
+2023-01-29 Sunday 15:11:20 root:INFO:****************************************
+2023-01-29 Sunday 15:11:20 root:INFO:Calculation 2 - Per Episode
+2023-01-29 Sunday 15:11:20 root:INFO:****************************************
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:0 Mean Waiting Time=-0.019 +/- 4.615
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:1 Mean Waiting Time=-0.020 +/- 4.616
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:2 Mean Waiting Time=-0.020 +/- 4.616
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:3 Mean Waiting Time=-0.019 +/- 4.598
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:4 Mean Waiting Time=-0.019 +/- 4.608
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:5 Mean Waiting Time=-0.020 +/- 4.606
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:6 Mean Waiting Time=-0.019 +/- 4.611
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:7 Mean Waiting Time=-0.020 +/- 4.604
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:8 Mean Waiting Time=-0.018 +/- 4.591
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:9 Mean Waiting Time=-0.020 +/- 4.611
+2023-01-29 Sunday 15:11:20 root:INFO:1-Total Mean Reward= -0.019 +/- 0.001
+2023-01-29 Sunday 15:11:20 root:INFO:2-Total Mean Reward= -0.019 +/- 4.608
+2023-01-29 Sunday 15:11:20 root:INFO:****
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:0 Mean Stopped= 51.916 +/- 3.904
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:1 Mean Stopped= 51.917 +/- 3.836
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:2 Mean Stopped= 51.895 +/- 3.776
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:3 Mean Stopped= 51.861 +/- 3.822
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:4 Mean Stopped= 51.896 +/- 3.868
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:5 Mean Stopped= 51.903 +/- 3.853
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:6 Mean Stopped= 51.864 +/- 3.865
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:7 Mean Stopped= 51.879 +/- 3.811
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:8 Mean Stopped= 51.829 +/- 3.860
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:9 Mean Stopped= 51.880 +/- 3.853
+2023-01-29 Sunday 15:11:20 root:INFO:1-Total Mean Stopped= 51.884 +/- 0.026
+2023-01-29 Sunday 15:11:20 root:INFO:2-Total Mean Stopped= 51.884 +/- 3.845
+2023-01-29 Sunday 15:11:20 root:INFO:****
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:0 Mean Waiting Time= 19161.918 +/- 2122.438
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:1 Mean Waiting Time= 19098.450 +/- 2073.620
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:2 Mean Waiting Time= 19072.755 +/- 2050.863
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:3 Mean Waiting Time= 18857.392 +/- 2023.233
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:4 Mean Waiting Time= 19110.129 +/- 2108.060
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:5 Mean Waiting Time= 19027.329 +/- 2079.303
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:6 Mean Waiting Time= 19037.994 +/- 2083.340
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:7 Mean Waiting Time= 18976.639 +/- 2032.747
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:8 Mean Waiting Time= 18863.952 +/- 2037.944
+2023-01-29 Sunday 15:11:20 root:INFO:Episode:9 Mean Waiting Time= 19039.191 +/- 2033.014
+2023-01-29 Sunday 15:11:20 root:INFO:1-Total Mean Waiting Time= 19024.575 +/- 95.084
+2023-01-29 Sunday 15:11:20 root:INFO:2-Total Mean Waiting Time= 19024.575 +/- 2064.456
+2023-01-29 Sunday 15:11:20 root:INFO:****************************************

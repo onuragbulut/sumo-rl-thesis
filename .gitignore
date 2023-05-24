@@ -39,7 +39,7 @@ htmlcov/
 .tox/
 .coverage
 .coverage.*
-.cache
+!.cache
 nosetests.xml
 coverage.xml
 *.cover
@@ -111,3 +111,6 @@ settings.json
 /wandb
 
 !outputs/*
+!*.log
+!log/
+!/log/*

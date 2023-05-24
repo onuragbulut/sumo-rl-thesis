@@ -1,0 +1,49 @@
+2023-04-12 Wednesday 03:11:39 root:INFO:Run: 4 for Testing experiment: DE-6 - route: ../nets/roundabout/input_routes_roundabout_auto_v1-6.rou.xml - first seed: 480 - alpha: 0.5 - gamma: 0.99 - epsilon: 0.2 - reward: diff-waiting-time
+2023-04-12 Wednesday 03:21:24 root:INFO:Total Distinct Missing States: 0
+2023-04-12 Wednesday 03:21:24 root:INFO:Total Non-Distinct Missing States: 0
+2023-04-12 Wednesday 03:21:24 root:INFO:********************
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean Reward=-1.20 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean Stopped=81991.00 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean_Stopped=81999.00 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean Waiting Time=1271090.00 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean_avg_speed=3445.19 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean_avg_speed_2=63927.84 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:Mean_avg_speed_cross_check=76925.68 +/- 0.00
+2023-04-12 Wednesday 03:21:24 root:INFO:****************************************
+2023-04-12 Wednesday 03:21:24 root:INFO:Calculation 1 - Overall 
+2023-04-12 Wednesday 03:21:24 root:INFO:****************************************
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Reward=-0.000 +/- 0.628
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Stopped= 8.198 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 8.199 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Waiting Time= 127.096 +/- 49.711
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.344 +/- 0.048
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 6.392 +/- 0.825
+2023-04-12 Wednesday 03:21:24 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 7.692 +/- 0.566
+2023-04-12 Wednesday 03:21:24 root:INFO:****************************************
+2023-04-12 Wednesday 03:21:24 root:INFO:Calculation 2 - Per Episode
+2023-04-12 Wednesday 03:21:24 root:INFO:****************************************
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Waiting Time=-0.000 +/- 0.628
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Reward= -0.000 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Reward= -0.000 +/- 0.628
+2023-04-12 Wednesday 03:21:24 root:INFO:****
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Stopped= 8.198 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Stopped= 8.198 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Stopped= 8.198 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:****
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Stopped Cross Check= 8.199 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Stopped Cross Check= 8.199 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Stopped Cross Check= 8.199 +/- 1.559
+2023-04-12 Wednesday 03:21:24 root:INFO:****
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Waiting Time= 127.096 +/- 49.711
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Waiting Time= 127.096 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Waiting Time= 127.096 +/- 49.711
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Avg Speed= 0.344 +/- 0.048
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Avg Speed= 0.344 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Avg Speed= 0.344 +/- 0.048
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Avg Speed 2= 6.392 +/- 0.825
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Avg Speed 2= 6.392 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Avg Speed 2= 6.392 +/- 0.825
+2023-04-12 Wednesday 03:21:24 root:INFO:Episode:0 Mean Avg Speed Cross Check= 7.692 +/- 0.566
+2023-04-12 Wednesday 03:21:24 root:INFO:1-Total Mean Avg Speed Cross Check= 7.692 +/- 0.000
+2023-04-12 Wednesday 03:21:24 root:INFO:2-Total Mean Avg Speed Cross Check= 7.692 +/- 0.566
+2023-04-12 Wednesday 03:21:24 root:INFO:****************************************

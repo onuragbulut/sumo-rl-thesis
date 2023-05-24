@@ -1,0 +1,52 @@
+2023-02-15 Wednesday 20:33:13 root:INFO:Total Distinct Missing States: 4
+2023-02-15 Wednesday 20:33:13 root:INFO:Total Non-Distinct Missing States: 48
+2023-02-15 Wednesday 20:33:13 root:INFO:(0, 1, 5, 5, 2): 2
+2023-02-15 Wednesday 20:33:13 root:INFO:(0, 1, 6, 6, 2): 14
+2023-02-15 Wednesday 20:33:13 root:INFO:(0, 1, 7, 7, 2): 15
+2023-02-15 Wednesday 20:33:13 root:INFO:(0, 1, 8, 8, 2): 17
+2023-02-15 Wednesday 20:33:13 root:INFO:********************
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean Reward=7735.86 +/- 0.00
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean Stopped=1089439.00 +/- 0.00
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean_Stopped=1090006.00 +/- 0.00
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean Waiting Time=16583647527.00 +/- 0.00
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean_avg_speed=4075.78 +/- 3660.08
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean_avg_speed_2=nan +/- nan
+2023-02-15 Wednesday 20:33:13 root:INFO:Mean_avg_speed_cross_check=13970.86 +/- 0.00
+2023-02-15 Wednesday 20:33:13 root:INFO:****************************************
+2023-02-15 Wednesday 20:33:13 root:INFO:Calculation 1 - Overall 
+2023-02-15 Wednesday 20:33:13 root:INFO:****************************************
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Reward=0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Stopped= 108.933 +/- 12.263
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 108.990 +/- 12.208
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Waiting Time= 1658198.933 +/- 967004.402
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.042 +/- 0.024
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 1.397 +/- 0.575
+2023-02-15 Wednesday 20:33:13 root:INFO:****************************************
+2023-02-15 Wednesday 20:33:13 root:INFO:Calculation 2 - Per Episode
+2023-02-15 Wednesday 20:33:13 root:INFO:****************************************
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Waiting Time=0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Reward= 0.774 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Reward= 0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:****
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Stopped= 108.933 +/- 12.263
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Stopped= 108.933 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Stopped= 108.933 +/- 12.263
+2023-02-15 Wednesday 20:33:13 root:INFO:****
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Stopped Cross Check= 108.990 +/- 12.208
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Stopped Cross Check= 108.990 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Stopped Cross Check= 108.990 +/- 12.208
+2023-02-15 Wednesday 20:33:13 root:INFO:****
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Waiting Time= 1658198.933 +/- 967004.402
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Waiting Time= 1658198.933 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Waiting Time= 1658198.933 +/- 967004.402
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Avg Speed= 0.042 +/- 0.024
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Avg Speed= 0.042 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Avg Speed= 0.042 +/- 0.024
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Avg Speed 2= 0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Avg Speed 2= 0.774 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Avg Speed 2= 0.774 +/- 0.453
+2023-02-15 Wednesday 20:33:13 root:INFO:Episode:0 Mean Avg Speed Cross Check= 1.397 +/- 0.575
+2023-02-15 Wednesday 20:33:13 root:INFO:1-Total Mean Avg Speed Cross Check= 1.397 +/- 0.000
+2023-02-15 Wednesday 20:33:13 root:INFO:2-Total Mean Avg Speed Cross Check= 1.397 +/- 0.575
+2023-02-15 Wednesday 20:33:13 root:INFO:****************************************

@@ -1,0 +1,118 @@
+2023-01-22 Sunday 20:34:08 root:INFO:Total Distinct Missing States: 79
+2023-01-22 Sunday 20:34:08 root:INFO:Total Non-Distinct Missing States: 514
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 2, 1, 1): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 1, 1, 2, 1): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 2, 1, 1, 1): 5
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 2, 3, 1): 4
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 3, 2, 1): 3
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 2, 4, 2, 2): 136
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 1, 2, 2, 2): 9
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 3, 6, 1, 2): 90
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 6, 1, 2): 15
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 2, 2, 3, 2): 34
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 5, 4, 1, 3): 37
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 1, 5, 4, 3): 6
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 1, 1, 4, 2): 16
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 2, 3, 2, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 3, 4, 2, 2): 9
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 3, 2, 1, 5): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 2, 2, 3, 4): 14
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 3, 2, 1, 3): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 3, 1, 2, 3): 4
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 5, 1, 2): 12
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 3, 2, 1, 3): 6
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 2, 5, 3, 5): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 1, 7, 2, 2): 3
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 1, 4, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 2, 5, 2, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 2, 5, 1, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 3, 4, 1, 2): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 4, 2, 3, 3): 8
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 5, 2, 1, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 2, 2, 2): 9
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 1, 2, 4, 2): 4
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 1, 6, 3, 2): 3
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 2, 5, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 0, 1, 2, 3, 5): 4
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 4, 1, 1, 6): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 4, 3, 1, 4): 4
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 5, 1, 3): 8
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 1, 3, 2, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 5, 4, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 1, 6, 4, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 3, 2, 3, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 3, 1, 3, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 2, 2, 1): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 2, 1, 1, 2): 5
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 1, 6, 3, 3): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 5, 2, 1, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 4, 1, 3, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 3, 1, 1, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 4, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 3, 1, 1): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 2, 2, 2, 3): 3
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 2, 6, 1, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 4, 2, 1, 6): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 2, 6, 5, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 4, 4, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 3, 5, 4, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 2, 4, 4, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 4, 6, 1, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 4, 4, 1, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 3, 3, 1, 5): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 4, 2, 3, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 3, 2, 1, 4): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 3, 5, 3, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 4, 2, 1, 5): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 1, 3, 2, 3, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 1, 2, 2, 1): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 2, 4, 1, 2): 2
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 3, 1, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 6, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 2, 6, 1, 5): 3
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 1, 6, 1, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 2, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(3, 1, 1, 1, 2, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 3, 5, 1, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(0, 0, 3, 2, 1, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 0, 4, 5, 2, 2): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 0, 1, 5, 1, 4): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(1, 1, 3, 6, 1, 5): 1
+2023-01-22 Sunday 20:34:08 root:INFO:(2, 1, 3, 3, 4, 3): 1
+2023-01-22 Sunday 20:34:08 root:INFO:********************
+2023-01-22 Sunday 20:34:08 root:INFO:Mean Reward=-55.66 +/- 7.64
+2023-01-22 Sunday 20:34:08 root:INFO:Mean Stopped=454946.20 +/- 2987.08
+2023-01-22 Sunday 20:34:08 root:INFO:Mean Waiting Time=61422142.20 +/- 884550.79
+2023-01-22 Sunday 20:34:08 root:INFO:****************************************
+2023-01-22 Sunday 20:34:08 root:INFO:Calculation 1 - Overall 
+2023-01-22 Sunday 20:34:08 root:INFO:****************************************
+2023-01-22 Sunday 20:34:08 root:INFO:Inner X Outer Loops Mean Reward=-0.006 +/- 2.068
+2023-01-22 Sunday 20:34:08 root:INFO:Inner X Outer Loops Mean Stopped= 45.490 +/- 6.239
+2023-01-22 Sunday 20:34:08 root:INFO:Inner X Outer Loops Mean Waiting Time= 6141.600 +/- 1326.408
+2023-01-22 Sunday 20:34:08 root:INFO:****************************************
+2023-01-22 Sunday 20:34:08 root:INFO:Calculation 2 - Per Episode
+2023-01-22 Sunday 20:34:08 root:INFO:****************************************
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:0 Mean Waiting Time=-0.005 +/- 2.040
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:1 Mean Waiting Time=-0.006 +/- 2.059
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:2 Mean Waiting Time=-0.007 +/- 2.056
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:3 Mean Waiting Time=-0.005 +/- 2.072
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:4 Mean Waiting Time=-0.005 +/- 2.110
+2023-01-22 Sunday 20:34:08 root:INFO:1-Total Mean Reward= -0.006 +/- 0.001
+2023-01-22 Sunday 20:34:08 root:INFO:2-Total Mean Reward= -0.006 +/- 2.067
+2023-01-22 Sunday 20:34:08 root:INFO:****
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:0 Mean Stopped= 45.168 +/- 6.028
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:1 Mean Stopped= 45.860 +/- 6.196
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:2 Mean Stopped= 45.186 +/- 6.165
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:3 Mean Stopped= 45.417 +/- 6.324
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:4 Mean Stopped= 45.819 +/- 6.437
+2023-01-22 Sunday 20:34:08 root:INFO:1-Total Mean Stopped= 45.490 +/- 0.299
+2023-01-22 Sunday 20:34:08 root:INFO:2-Total Mean Stopped= 45.490 +/- 6.230
+2023-01-22 Sunday 20:34:08 root:INFO:****
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:0 Mean Waiting Time= 6044.849 +/- 1218.842
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:1 Mean Waiting Time= 6193.648 +/- 1249.935
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:2 Mean Waiting Time= 6061.672 +/- 1331.874
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:3 Mean Waiting Time= 6123.638 +/- 1370.714
+2023-01-22 Sunday 20:34:08 root:INFO:Episode:4 Mean Waiting Time= 6284.193 +/- 1434.233
+2023-01-22 Sunday 20:34:08 root:INFO:1-Total Mean Waiting Time= 6141.600 +/- 88.446
+2023-01-22 Sunday 20:34:08 root:INFO:2-Total Mean Waiting Time= 6141.600 +/- 1321.119
+2023-01-22 Sunday 20:34:08 root:INFO:****************************************

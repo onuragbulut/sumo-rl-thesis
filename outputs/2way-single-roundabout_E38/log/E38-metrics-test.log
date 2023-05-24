@@ -1,0 +1,57 @@
+2023-01-23 Monday 20:32:14 root:INFO:Total Distinct Missing States: 18
+2023-01-23 Monday 20:32:14 root:INFO:Total Non-Distinct Missing States: 76
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 2, 1, 2, 1): 12
+2023-01-23 Monday 20:32:14 root:INFO:(1, 1, 1, 2, 1, 1): 26
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 2, 2, 2, 1): 4
+2023-01-23 Monday 20:32:14 root:INFO:(0, 1, 1, 1, 4, 1): 10
+2023-01-23 Monday 20:32:14 root:INFO:(2, 1, 2, 3, 2, 2): 2
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 2, 2, 2, 2): 2
+2023-01-23 Monday 20:32:14 root:INFO:(2, 0, 1, 2, 5, 2): 3
+2023-01-23 Monday 20:32:14 root:INFO:(0, 0, 1, 2, 3, 2): 1
+2023-01-23 Monday 20:32:14 root:INFO:(3, 0, 3, 1, 4, 2): 4
+2023-01-23 Monday 20:32:14 root:INFO:(3, 1, 2, 3, 3, 2): 2
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 2, 3, 2, 2): 2
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 1, 1, 2, 1): 2
+2023-01-23 Monday 20:32:14 root:INFO:(3, 0, 2, 2, 4, 2): 1
+2023-01-23 Monday 20:32:14 root:INFO:(1, 0, 1, 1, 5, 2): 1
+2023-01-23 Monday 20:32:14 root:INFO:(2, 0, 1, 3, 6, 2): 1
+2023-01-23 Monday 20:32:14 root:INFO:(3, 0, 2, 2, 2, 2): 1
+2023-01-23 Monday 20:32:14 root:INFO:(3, 1, 1, 5, 6, 1): 1
+2023-01-23 Monday 20:32:14 root:INFO:(2, 0, 1, 5, 4, 1): 1
+2023-01-23 Monday 20:32:14 root:INFO:********************
+2023-01-23 Monday 20:32:14 root:INFO:Mean Reward=-22.72 +/- 7.37
+2023-01-23 Monday 20:32:14 root:INFO:Mean Stopped=229979.80 +/- 662.32
+2023-01-23 Monday 20:32:14 root:INFO:Mean Waiting Time=22490735.00 +/- 320493.75
+2023-01-23 Monday 20:32:14 root:INFO:****************************************
+2023-01-23 Monday 20:32:14 root:INFO:Calculation 1 - Overall 
+2023-01-23 Monday 20:32:14 root:INFO:****************************************
+2023-01-23 Monday 20:32:14 root:INFO:Inner X Outer Loops Mean Reward=-0.002 +/- 1.415
+2023-01-23 Monday 20:32:14 root:INFO:Inner X Outer Loops Mean Stopped= 22.996 +/- 5.288
+2023-01-23 Monday 20:32:14 root:INFO:Inner X Outer Loops Mean Waiting Time= 2248.849 +/- 786.676
+2023-01-23 Monday 20:32:14 root:INFO:****************************************
+2023-01-23 Monday 20:32:14 root:INFO:Calculation 2 - Per Episode
+2023-01-23 Monday 20:32:14 root:INFO:****************************************
+2023-01-23 Monday 20:32:14 root:INFO:Episode:0 Mean Waiting Time=-0.001 +/- 1.408
+2023-01-23 Monday 20:32:14 root:INFO:Episode:1 Mean Waiting Time=-0.003 +/- 1.438
+2023-01-23 Monday 20:32:14 root:INFO:Episode:2 Mean Waiting Time=-0.002 +/- 1.398
+2023-01-23 Monday 20:32:14 root:INFO:Episode:3 Mean Waiting Time=-0.002 +/- 1.422
+2023-01-23 Monday 20:32:14 root:INFO:Episode:4 Mean Waiting Time=-0.003 +/- 1.410
+2023-01-23 Monday 20:32:14 root:INFO:1-Total Mean Reward= -0.002 +/- 0.001
+2023-01-23 Monday 20:32:14 root:INFO:2-Total Mean Reward= -0.002 +/- 1.415
+2023-01-23 Monday 20:32:14 root:INFO:****
+2023-01-23 Monday 20:32:14 root:INFO:Episode:0 Mean Stopped= 22.903 +/- 5.442
+2023-01-23 Monday 20:32:14 root:INFO:Episode:1 Mean Stopped= 23.087 +/- 4.804
+2023-01-23 Monday 20:32:14 root:INFO:Episode:2 Mean Stopped= 22.942 +/- 5.734
+2023-01-23 Monday 20:32:14 root:INFO:Episode:3 Mean Stopped= 23.006 +/- 5.275
+2023-01-23 Monday 20:32:14 root:INFO:Episode:4 Mean Stopped= 23.040 +/- 5.140
+2023-01-23 Monday 20:32:14 root:INFO:1-Total Mean Stopped= 22.996 +/- 0.066
+2023-01-23 Monday 20:32:14 root:INFO:2-Total Mean Stopped= 22.996 +/- 5.279
+2023-01-23 Monday 20:32:14 root:INFO:****
+2023-01-23 Monday 20:32:14 root:INFO:Episode:0 Mean Waiting Time= 2224.079 +/- 851.267
+2023-01-23 Monday 20:32:14 root:INFO:Episode:1 Mean Waiting Time= 2300.910 +/- 673.055
+2023-01-23 Monday 20:32:14 root:INFO:Episode:2 Mean Waiting Time= 2221.014 +/- 894.340
+2023-01-23 Monday 20:32:14 root:INFO:Episode:3 Mean Waiting Time= 2271.879 +/- 746.710
+2023-01-23 Monday 20:32:14 root:INFO:Episode:4 Mean Waiting Time= 2226.361 +/- 744.369
+2023-01-23 Monday 20:32:14 root:INFO:1-Total Mean Waiting Time= 2248.849 +/- 32.046
+2023-01-23 Monday 20:32:14 root:INFO:2-Total Mean Waiting Time= 2248.849 +/- 781.948
+2023-01-23 Monday 20:32:14 root:INFO:****************************************

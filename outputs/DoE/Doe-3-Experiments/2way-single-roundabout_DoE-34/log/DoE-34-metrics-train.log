@@ -1,0 +1,80 @@
+2023-03-07 Tuesday 21:22:44: Run: 3 for Training experiment: DoE-34 - first seed: 370 - alpha: 0.3 - gamma: 0.99 - epsilon: 0.3 - reward: average-speed-2
+2023-03-07 Tuesday 21:37:36: Run: 1 - First Epsilon: 0.3 - Last Epsilon: 0.3
+2023-03-07 Tuesday 21:56:18: Run: 2 - First Epsilon: 0.3 - Last Epsilon: 0.3
+2023-03-07 Tuesday 22:13:54: Run: 3 - First Epsilon: 0.3 - Last Epsilon: 0.3
+2023-03-07 Tuesday 22:28:56: Run: 4 - First Epsilon: 0.3 - Last Epsilon: 0.3
+2023-03-07 Tuesday 22:43:52: Run: 5 - First Epsilon: 0.3 - Last Epsilon: 0.3
+2023-03-07 Tuesday 22:43:52: Q-Table Total Distinct States: 555
+2023-03-07 Tuesday 22:43:52: Mean_reward=12152.74 +/- 1695.01
+2023-03-07 Tuesday 22:43:52: Mean_Stopped=849848.20 +/- 128980.53
+2023-03-07 Tuesday 22:43:52: Mean_Stopped=850022.20 +/- 129021.21
+2023-03-07 Tuesday 22:43:52: Mean_waiting_time=63882104.60 +/- 28409617.72
+2023-03-07 Tuesday 22:43:52: Mean_avg_speed=654.43 +/- 91.76
+2023-03-07 Tuesday 22:43:52: Mean_avg_speed_2=12152.74 +/- 1695.01
+2023-03-07 Tuesday 22:43:52: Mean_avg_speed_cross_check=21109.55 +/- 2690.90
+2023-03-07 Tuesday 22:43:52: ****************************************
+2023-03-07 Tuesday 22:43:52: Calculation 1 - Overall 
+2023-03-07 Tuesday 22:43:52: ****************************************
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Reward= 1.215 +/- 0.545
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Stopped= 84.976 +/- 18.454
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Stopped Cross Check= 84.994 +/- 18.453
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Waiting Time= 6387.572 +/- 6890.186
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Avg Speed= 0.065 +/- 0.029
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Avg Speed 2= 1.215 +/- 0.545
+2023-03-07 Tuesday 22:43:52: Inner X Outer Loops Mean Avg Speed Cross Check= 2.111 +/- 0.640
+2023-03-07 Tuesday 22:43:52: ****************************************
+2023-03-07 Tuesday 22:43:52: Calculation 2 - Per Episode
+2023-03-07 Tuesday 22:43:52: ****************************************
+2023-03-07 Tuesday 22:43:52: Episode:0 Mean Reward= 1.158 +/- 0.491
+2023-03-07 Tuesday 22:43:52: Episode:1 Mean Reward= 0.962 +/- 0.509
+2023-03-07 Tuesday 22:43:52: Episode:2 Mean Reward= 1.149 +/- 0.528
+2023-03-07 Tuesday 22:43:52: Episode:3 Mean Reward= 1.379 +/- 0.539
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Reward= 1.428 +/- 0.519
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Reward= 1.215 +/- 0.169
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Reward= 1.215 +/- 0.517
+2023-03-07 Tuesday 22:43:53: ****
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Stopped= 82.225 +/- 11.006
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Stopped= 106.939 +/- 14.526
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Stopped= 90.601 +/- 17.921
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Stopped= 73.467 +/- 10.632
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Stopped= 71.649 +/- 10.239
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Stopped= 84.976 +/- 12.897
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Stopped= 84.976 +/- 12.865
+2023-03-07 Tuesday 22:43:53: ****
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Stopped Cross Check= 82.234 +/- 10.999
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Stopped Cross Check= 106.963 +/- 14.518
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Stopped Cross Check= 90.626 +/- 17.925
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Stopped Cross Check= 73.481 +/- 10.622
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Stopped Cross Check= 71.665 +/- 10.227
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Stopped Cross Check= 84.994 +/- 12.901
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Stopped Cross Check= 84.994 +/- 12.858
+2023-03-07 Tuesday 22:43:53: ****
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Waiting Time= 7024.713 +/- 6146.300
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Waiting Time= 11059.530 +/- 9516.812
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Waiting Time= 7021.128 +/- 7163.647
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Waiting Time= 3582.270 +/- 3066.220
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Waiting Time= 3250.217 +/- 2821.315
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Waiting Time= 6387.572 +/- 2840.678
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Waiting Time= 6387.572 +/- 5742.859
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Avg Speed= 0.062 +/- 0.026
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Avg Speed= 0.052 +/- 0.027
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Avg Speed= 0.062 +/- 0.028
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Avg Speed= 0.074 +/- 0.029
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Avg Speed= 0.077 +/- 0.028
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Avg Speed= 0.065 +/- 0.009
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Avg Speed= 0.065 +/- 0.027
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Avg Speed 2= 1.158 +/- 0.491
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Avg Speed 2= 0.962 +/- 0.509
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Avg Speed 2= 1.149 +/- 0.528
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Avg Speed 2= 1.379 +/- 0.539
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Avg Speed 2= 1.428 +/- 0.519
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Avg Speed 2= 1.215 +/- 0.169
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Avg Speed 2= 1.215 +/- 0.517
+2023-03-07 Tuesday 22:43:53: Episode:0 Mean Avg Speed Cross Check= 2.024 +/- 0.555
+2023-03-07 Tuesday 22:43:53: Episode:1 Mean Avg Speed Cross Check= 1.706 +/- 0.594
+2023-03-07 Tuesday 22:43:53: Episode:2 Mean Avg Speed Cross Check= 2.008 +/- 0.613
+2023-03-07 Tuesday 22:43:53: Episode:3 Mean Avg Speed Cross Check= 2.370 +/- 0.581
+2023-03-07 Tuesday 22:43:53: Episode:4 Mean Avg Speed Cross Check= 2.446 +/- 0.559
+2023-03-07 Tuesday 22:43:53: 1-Total Mean Avg Speed Cross Check= 2.111 +/- 0.269
+2023-03-07 Tuesday 22:43:53: 2-Total Mean Avg Speed Cross Check= 2.111 +/- 0.580
+2023-03-07 Tuesday 22:43:53: ****************************************

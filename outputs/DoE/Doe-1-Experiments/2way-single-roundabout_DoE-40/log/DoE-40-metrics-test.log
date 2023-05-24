@@ -1,0 +1,105 @@
+2023-02-28 Tuesday 23:27:09 root:INFO:Run: 1 for Testing experiment: DoE-40 - first seed: 180 - alpha: 0.5 - gamma: 0.8 - epsilon: 0.3 - reward: average-speed-2
+2023-02-28 Tuesday 23:37:01 root:INFO:Total Distinct Missing States: 56
+2023-02-28 Tuesday 23:37:01 root:INFO:Total Non-Distinct Missing States: 117
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 1, 1, 4, 3, 1): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 3, 3, 1): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 2, 3, 1): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 2, 2, 3, 1): 4
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 2, 2, 2, 1): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 2, 2, 3, 1): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 2, 3, 3, 1): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 2, 2, 3, 1): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 2, 2, 2, 1): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 2, 6, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 2, 5, 2, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 5, 2, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 4, 3, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 3, 3, 2): 5
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 2, 2, 3, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 2, 2, 3, 2): 5
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 3, 3, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 3, 3, 2, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 3, 3, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 2, 3, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 3, 3, 3, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 3, 2, 3, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 3, 2, 3, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 3, 2, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 2, 2, 3, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 2, 3, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 2, 3, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 2, 2, 3, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 2, 2, 2, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 2, 2, 2, 2): 4
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 2, 3, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 2, 3, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 2, 2, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 2, 2, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 1, 2, 2, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 1, 2, 2, 2): 6
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 1, 2, 3, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 1, 2, 2, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 1, 2, 2, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 1, 2, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 1, 1, 2, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 1, 1, 2, 2): 4
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 1, 1, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 1, 1, 1, 1, 2): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 0, 2, 2, 1, 2): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 1, 2, 2, 2, 2): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 0, 2, 2, 1, 1): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 1, 2, 2, 2, 1): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 0, 1, 4, 2, 0): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(3, 1, 1, 4, 2, 0): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 1, 4, 2, 0): 3
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 1, 1, 4, 2, 0): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(2, 0, 2, 4, 2, 1): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 0, 1, 5, 2, 0): 2
+2023-02-28 Tuesday 23:37:01 root:INFO:(0, 1, 1, 5, 2, 0): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:(1, 0, 1, 5, 2, 0): 1
+2023-02-28 Tuesday 23:37:01 root:INFO:********************
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean Reward=24287.73 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean Stopped=382721.00 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean_Stopped=382866.00 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean Waiting Time=14229998.00 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean_avg_speed=1309.19 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean_avg_speed_2=24287.73 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:Mean_avg_speed_cross_check=38517.28 +/- 0.00
+2023-02-28 Tuesday 23:37:01 root:INFO:****************************************
+2023-02-28 Tuesday 23:37:01 root:INFO:Calculation 1 - Overall 
+2023-02-28 Tuesday 23:37:01 root:INFO:****************************************
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Reward=2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Stopped= 38.268 +/- 5.583
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 38.283 +/- 5.574
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Waiting Time= 1422.858 +/- 463.854
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.131 +/- 0.025
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 3.851 +/- 0.439
+2023-02-28 Tuesday 23:37:01 root:INFO:****************************************
+2023-02-28 Tuesday 23:37:01 root:INFO:Calculation 2 - Per Episode
+2023-02-28 Tuesday 23:37:01 root:INFO:****************************************
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Waiting Time=2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Reward= 2.429 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Reward= 2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:****
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Stopped= 38.268 +/- 5.583
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Stopped= 38.268 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Stopped= 38.268 +/- 5.583
+2023-02-28 Tuesday 23:37:01 root:INFO:****
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Stopped Cross Check= 38.283 +/- 5.574
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Stopped Cross Check= 38.283 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Stopped Cross Check= 38.283 +/- 5.574
+2023-02-28 Tuesday 23:37:01 root:INFO:****
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Waiting Time= 1422.858 +/- 463.854
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Waiting Time= 1422.858 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Waiting Time= 1422.858 +/- 463.854
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Avg Speed= 0.131 +/- 0.025
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Avg Speed= 0.131 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Avg Speed= 0.131 +/- 0.025
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Avg Speed 2= 2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Avg Speed 2= 2.429 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Avg Speed 2= 2.429 +/- 0.458
+2023-02-28 Tuesday 23:37:01 root:INFO:Episode:0 Mean Avg Speed Cross Check= 3.851 +/- 0.439
+2023-02-28 Tuesday 23:37:01 root:INFO:1-Total Mean Avg Speed Cross Check= 3.851 +/- 0.000
+2023-02-28 Tuesday 23:37:01 root:INFO:2-Total Mean Avg Speed Cross Check= 3.851 +/- 0.439
+2023-02-28 Tuesday 23:37:01 root:INFO:****************************************

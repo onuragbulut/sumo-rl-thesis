@@ -1,0 +1,89 @@
+2023-04-14 Friday 11:52:25 root:INFO:Run: 1 for Testing experiment: DE-8 - route: ../nets/roundabout/input_routes_roundabout_auto_v1-8.rou.xml - first seed: 180 - alpha: 0.5 - gamma: 0.99 - epsilon: 0.2 - reward: diff-waiting-time
+2023-04-14 Friday 11:58:22 root:INFO:Total Distinct Missing States: 0
+2023-04-14 Friday 11:58:22 root:INFO:Total Non-Distinct Missing States: 0
+2023-04-14 Friday 11:58:22 root:INFO:********************
+2023-04-14 Friday 11:58:22 root:INFO:Mean Reward=-2.87 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean Stopped=48741.00 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_Stopped=48741.00 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean Waiting Time=3956028.00 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_avg_speed=3379.86 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_avg_speed_2=62496.36 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_avg_speed_cross_check=75769.72 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_co2_emission_tl=30586985.99 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_co_emission_tl=1021156.52 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_fuel_consumption_tl=13148.43 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_noise_emission_tl=601597.72 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_co2_emission=26423537.66 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_co_emission=734533.77 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_fuel_consumptions=11358.67 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:Mean_average_noise_emissions=609260.65 +/- 0.00
+2023-04-14 Friday 11:58:22 root:INFO:****************************************
+2023-04-14 Friday 11:58:22 root:INFO:Calculation 1 - Overall 
+2023-04-14 Friday 11:58:22 root:INFO:****************************************
+2023-04-14 Friday 11:58:22 root:INFO:Inner X Outer Loops Mean Reward=-0.000 +/- 1.281
+2023-04-14 Friday 11:58:22 root:INFO:Inner X Outer Loops Mean Stopped= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:22 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:22 root:INFO:Inner X Outer Loops Mean Waiting Time= 395.563 +/- 308.589
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.338 +/- 0.101
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 6.249 +/- 1.928
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 7.576 +/- 1.402
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average CO2 Emission TL= 3058.393 +/- 422.676
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average CO Emission TL= 102.105 +/- 16.563
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average Fuel Consumption TL= 1.315 +/- 0.182
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average Noise Emission TL= 60.154 +/- 1.456
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average CO2 Emission= 2642.090 +/- 328.194
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average CO Emission= 73.446 +/- 15.276
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average Fuel Consumptions= 1.136 +/- 0.141
+2023-04-14 Friday 11:58:23 root:INFO:Inner X Outer Loops Mean Average Noise Emissions= 60.920 +/- 0.991
+2023-04-14 Friday 11:58:23 root:INFO:****************************************
+2023-04-14 Friday 11:58:23 root:INFO:Calculation 2 - Per Episode
+2023-04-14 Friday 11:58:23 root:INFO:****************************************
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Waiting Time=-0.000 +/- 1.281
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Reward= -0.000 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Reward= -0.000 +/- 1.281
+2023-04-14 Friday 11:58:23 root:INFO:****
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Stopped= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Stopped= 4.874 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Stopped= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:23 root:INFO:****
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Stopped Cross Check= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Stopped Cross Check= 4.874 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Stopped Cross Check= 4.874 +/- 1.533
+2023-04-14 Friday 11:58:23 root:INFO:****
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Waiting Time= 395.563 +/- 308.589
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Waiting Time= 395.563 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Waiting Time= 395.563 +/- 308.589
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Avg Speed= 0.338 +/- 0.101
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Avg Speed= 0.338 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Avg Speed= 0.338 +/- 0.101
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Avg Speed 2= 6.249 +/- 1.928
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Avg Speed 2= 6.249 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Avg Speed 2= 6.249 +/- 1.928
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Avg Speed Cross Check= 7.576 +/- 1.402
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Avg Speed Cross Check= 7.576 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Avg Speed Cross Check= 7.576 +/- 1.402
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average CO2 Emission TL= 3058.393 +/- 422.676
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average CO2 Emission TL= 3058.393 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average CO2 Emission TL= 3058.393 +/- 422.676
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average CO Emission TL= 102.105 +/- 16.563
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average CO Emission TL= 102.105 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average CO Emission TL= 102.105 +/- 16.563
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average Fuel Consumption TL= 1.315 +/- 0.182
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average Fuel Consumption TL= 1.315 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average Fuel Consumption TL= 1.315 +/- 0.182
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average Noise Emission TL= 60.154 +/- 1.456
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average Noise Emission TL= 60.154 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average Noise Emission TL= 60.154 +/- 1.456
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average CO2 Emission= 2642.090 +/- 328.194
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average CO2 Emission= 2642.090 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average CO2 Emission= 2642.090 +/- 328.194
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average CO Emission= 73.446 +/- 15.276
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average CO Emission= 73.446 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average CO Emission= 73.446 +/- 15.276
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average Fuel Consumption= 1.136 +/- 0.141
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average Fuel Consumption= 1.136 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average Fuel Consumption= 1.136 +/- 0.141
+2023-04-14 Friday 11:58:23 root:INFO:Episode:0 Mean Average Noise Emission= 60.920 +/- 0.991
+2023-04-14 Friday 11:58:23 root:INFO:1-Total Mean Average Noise Emission= 60.920 +/- 0.000
+2023-04-14 Friday 11:58:23 root:INFO:2-Total Mean Average Noise Emission= 60.920 +/- 0.991
+2023-04-14 Friday 11:58:23 root:INFO:****************************************

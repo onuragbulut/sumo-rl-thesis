@@ -1,0 +1,42 @@
+2023-02-10 Friday 19:26:15: Run: 1 - First Epsilon: 0.4 - Last Epsilon: 0.4
+2023-02-10 Friday 19:34:28: Run: 2 - First Epsilon: 0.4 - Last Epsilon: 0.4
+2023-02-10 Friday 19:42:49: Run: 3 - First Epsilon: 0.4 - Last Epsilon: 0.4
+2023-02-10 Friday 19:51:11: Run: 4 - First Epsilon: 0.4 - Last Epsilon: 0.4
+2023-02-10 Friday 19:59:33: Run: 5 - First Epsilon: 0.4 - Last Epsilon: 0.4
+2023-02-10 Friday 19:59:34: Q-Table Total Distinct States: 520
+2023-02-10 Friday 19:59:34: Mean_reward=-483179.60 +/- 7989.36
+2023-02-10 Friday 19:59:34: Mean_Stopped=483179.60 +/- 7989.36
+2023-02-10 Friday 19:59:34: Mean_waiting_time=14636463.60 +/- 827464.56
+2023-02-10 Friday 19:59:34: ****************************************
+2023-02-10 Friday 19:59:34: Calculation 1 - Overall 
+2023-02-10 Friday 19:59:34: ****************************************
+2023-02-10 Friday 19:59:34: Inner X Outer Loops Mean Reward= -48.313 +/- 10.975
+2023-02-10 Friday 19:59:34: Inner X Outer Loops Mean Stopped= 48.313 +/- 10.975
+2023-02-10 Friday 19:59:34: Inner X Outer Loops Mean Waiting Time= 1463.500 +/- 967.410
+2023-02-10 Friday 19:59:34: ****************************************
+2023-02-10 Friday 19:59:34: Calculation 2 - Per Episode
+2023-02-10 Friday 19:59:34: ****************************************
+2023-02-10 Friday 19:59:34: Episode:0 Mean Reward= -49.538 +/- 10.683
+2023-02-10 Friday 19:59:34: Episode:1 Mean Reward= -47.034 +/- 10.354
+2023-02-10 Friday 19:59:34: Episode:2 Mean Reward= -48.507 +/- 11.114
+2023-02-10 Friday 19:59:34: Episode:3 Mean Reward= -48.296 +/- 11.208
+2023-02-10 Friday 19:59:34: Episode:4 Mean Reward= -48.191 +/- 11.343
+2023-02-10 Friday 19:59:34: 1-Total Mean Reward= -48.313 +/- 0.799
+2023-02-10 Friday 19:59:34: 2-Total Mean Reward= -48.313 +/- 10.940
+2023-02-10 Friday 19:59:34: ****
+2023-02-10 Friday 19:59:34: Episode:0 Mean Stopped= 49.538 +/- 10.683
+2023-02-10 Friday 19:59:34: Episode:1 Mean Stopped= 47.034 +/- 10.354
+2023-02-10 Friday 19:59:34: Episode:2 Mean Stopped= 48.507 +/- 11.114
+2023-02-10 Friday 19:59:34: Episode:3 Mean Stopped= 48.296 +/- 11.208
+2023-02-10 Friday 19:59:34: Episode:4 Mean Stopped= 48.191 +/- 11.343
+2023-02-10 Friday 19:59:34: 1-Total Mean Stopped= 48.313 +/- 0.799
+2023-02-10 Friday 19:59:34: 2-Total Mean Stopped= 48.313 +/- 10.940
+2023-02-10 Friday 19:59:34: ****
+2023-02-10 Friday 19:59:34: Episode:0 Mean Waiting Time= 1543.905 +/- 1141.803
+2023-02-10 Friday 19:59:34: Episode:1 Mean Waiting Time= 1303.600 +/- 787.336
+2023-02-10 Friday 19:59:34: Episode:2 Mean Waiting Time= 1483.456 +/- 974.513
+2023-02-10 Friday 19:59:34: Episode:3 Mean Waiting Time= 1496.770 +/- 932.354
+2023-02-10 Friday 19:59:34: Episode:4 Mean Waiting Time= 1489.769 +/- 950.056
+2023-02-10 Friday 19:59:34: 1-Total Mean Waiting Time= 1463.500 +/- 82.738
+2023-02-10 Friday 19:59:34: 2-Total Mean Waiting Time= 1463.500 +/- 957.212
+2023-02-10 Friday 19:59:34: ****************************************

@@ -1,0 +1,27 @@
+2023-02-08 Wednesday 20:42:54 root:INFO:Total Distinct Missing States: 0
+2023-02-08 Wednesday 20:42:54 root:INFO:Total Non-Distinct Missing States: 0
+2023-02-08 Wednesday 20:42:54 root:INFO:********************
+2023-02-08 Wednesday 20:42:54 root:INFO:Mean Reward=-0.56 +/- 0.00
+2023-02-08 Wednesday 20:42:54 root:INFO:Mean Stopped=64887.00 +/- 0.00
+2023-02-08 Wednesday 20:42:54 root:INFO:Mean Waiting Time=887779.00 +/- 0.00
+2023-02-08 Wednesday 20:42:54 root:INFO:****************************************
+2023-02-08 Wednesday 20:42:54 root:INFO:Calculation 1 - Overall 
+2023-02-08 Wednesday 20:42:54 root:INFO:****************************************
+2023-02-08 Wednesday 20:42:54 root:INFO:Inner X Outer Loops Mean Reward=-0.000 +/- 0.547
+2023-02-08 Wednesday 20:42:54 root:INFO:Inner X Outer Loops Mean Stopped= 6.488 +/- 1.356
+2023-02-08 Wednesday 20:42:54 root:INFO:Inner X Outer Loops Mean Waiting Time= 88.769 +/- 38.713
+2023-02-08 Wednesday 20:42:54 root:INFO:****************************************
+2023-02-08 Wednesday 20:42:54 root:INFO:Calculation 2 - Per Episode
+2023-02-08 Wednesday 20:42:54 root:INFO:****************************************
+2023-02-08 Wednesday 20:42:54 root:INFO:Episode:0 Mean Waiting Time=-0.000 +/- 0.547
+2023-02-08 Wednesday 20:42:54 root:INFO:1-Total Mean Reward= -0.000 +/- 0.000
+2023-02-08 Wednesday 20:42:54 root:INFO:2-Total Mean Reward= -0.000 +/- 0.547
+2023-02-08 Wednesday 20:42:54 root:INFO:****
+2023-02-08 Wednesday 20:42:54 root:INFO:Episode:0 Mean Stopped= 6.488 +/- 1.356
+2023-02-08 Wednesday 20:42:54 root:INFO:1-Total Mean Stopped= 6.488 +/- 0.000
+2023-02-08 Wednesday 20:42:54 root:INFO:2-Total Mean Stopped= 6.488 +/- 1.356
+2023-02-08 Wednesday 20:42:54 root:INFO:****
+2023-02-08 Wednesday 20:42:54 root:INFO:Episode:0 Mean Waiting Time= 88.769 +/- 38.713
+2023-02-08 Wednesday 20:42:54 root:INFO:1-Total Mean Waiting Time= 88.769 +/- 0.000
+2023-02-08 Wednesday 20:42:54 root:INFO:2-Total Mean Waiting Time= 88.769 +/- 38.713
+2023-02-08 Wednesday 20:42:54 root:INFO:****************************************
