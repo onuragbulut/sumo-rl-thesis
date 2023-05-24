@@ -109,3 +109,5 @@ settings.json
 
 # output files
 /wandb
+
+!outputs/*
