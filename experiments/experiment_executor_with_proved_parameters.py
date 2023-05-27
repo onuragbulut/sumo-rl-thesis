@@ -15,10 +15,10 @@ discount_rate = 0.99
 epsilon = 0.2
 reward_type = 'diff-waiting-time'
 #for run in range(1, 6):
-run = 5
+run = 1
 index = 1
 headers = ['RunNo', 'ExperimentNo', 'Scenario', 'Type', 'InitialTrainingSeed', 'TestingSeed', 'LearningRate', 'DiscountRate', 'Epsilon', 'RewardType', 'MeanReward', 'MeanStopped', 'MeanWaitingTime', 'MeanAverageSpeed', 'MeanAverageSpeed2', 'MeanAverageSpeedCrossCheck', 'MeanAverageCO2EmissionTL', 'MeanAverageCOEmissionTL', 'MeanAverageFuelConsumptionTL', 'MeanAverageNoiseEmissionTL', 'MeanAverageCO2Emission', 'MeanAverageCOEmission', 'MeanAverageFuelConsumption', 'MeanAverageNoiseEmission']
-csv_file_path = '../outputs/DE-Enhanced-S2/DE-Enhanced-S2-{}.csv'.format(run)
+csv_file_path = '../outputs/DE-Enhanced-S3/DE-Enhanced-S3-{}.csv'.format(run)
 
 '''
 Path(Path(csv_file_path).parent).mkdir(parents=True, exist_ok=True)
@@ -30,13 +30,13 @@ with open(csv_file_path, 'w') as file:
 if not exists(csv_file_path):
     csv_output_writer.write_headers(csv_file_path, headers)
 
+#q_table_file_path = '../outputs/DE-Enhanced-S3/q_table/q_table_run_{}_scenario_{}.txt'.format(run, idx)
+q_table_file_path = '../outputs/DE-Enhanced-S3/q_table/q_table.txt'
 
 for idx in range(index, 9):
     begin = datetime.now()
     route_file = "../nets/roundabout/input_routes_roundabout_auto_v1-{}.rou.xml".format(idx)
-    #q_table_file_path = '../outputs/DE-Enhanced-S2/q_table/q_table_run_{}_scenario_{}.txt'.format(run, idx)
-    q_table_file_path = '../outputs/DE-Enhanced-S2/q_table/q_table_run_{}.txt'.format(run)
-    EXPERIMENT_NO = "DE-Enhanced-S2-{}".format(idx)
+    EXPERIMENT_NO = "DE-Enhanced-S3-{}".format(idx)
     training_seed = (run * 100) + training_seed_base
     testing_seed = (run * 100) + testing_seed_base
     baseline_seed = (run * 100) + testing_seed_base
@@ -50,7 +50,7 @@ for idx in range(index, 9):
     file.close()
     '''
     #csv_output_writer.write_hyperparameters(csv_file_path, metrics)
-    if idx == 1:
+    if idx == 1 and run == 1:
         call(["python", "ql_2way-single-intersection.py", '-seed', str(training_seed)] + str_args)
     call(["python", "ql_2way-single-intersection_testing.py", '-seed', str(testing_seed), "-csvfile", csv_file_path] + str_args)
     call(["python", "ql_2way-single-intersection_baseline.py", '-seed', str(baseline_seed), "-csvfile", csv_file_path] + str_args)
