@@ -16,7 +16,7 @@ epsilon = 0.2
 reward_type = 'diff-waiting-time'
 #for run in range(1, 6):
 run = 1
-index = 1
+index = 5
 headers = ['RunNo', 'ExperimentNo', 'Scenario', 'Type', 'InitialTrainingSeed', 'TestingSeed', 'LearningRate', 'DiscountRate', 'Epsilon', 'RewardType', 'MeanReward', 'MeanStopped', 'MeanWaitingTime', 'MeanAverageSpeed', 'MeanAverageSpeed2', 'MeanAverageSpeedCrossCheck', 'MeanAverageCO2EmissionTL', 'MeanAverageCOEmissionTL', 'MeanAverageFuelConsumptionTL', 'MeanAverageNoiseEmissionTL', 'MeanAverageCO2Emission', 'MeanAverageCOEmission', 'MeanAverageFuelConsumption', 'MeanAverageNoiseEmission']
 csv_file_path = '../outputs/DE-Enhanced-S3/DE-Enhanced-S3-{}.csv'.format(run)
 
