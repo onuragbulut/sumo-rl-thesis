@@ -1,0 +1,94 @@
+2023-05-30 Tuesday 01:40:18 root:INFO:Run: 4 for Testing experiment: DE-Enhanced-S3-8 - route: ../nets/roundabout/input_routes_roundabout_auto_v1-8.rou.xml - first seed: 480 - alpha: 0.5 - gamma: 0.99 - epsilon: 0.2 - reward: diff-waiting-time
+2023-05-30 Tuesday 01:45:40 root:INFO:Total Distinct Missing States: 5
+2023-05-30 Tuesday 01:45:40 root:INFO:Total Non-Distinct Missing States: 4910
+2023-05-30 Tuesday 01:45:40 root:INFO:(0, 0, 0, 1, 1, 1): 804
+2023-05-30 Tuesday 01:45:40 root:INFO:(0, 1, 0, 1, 1, 1): 833
+2023-05-30 Tuesday 01:45:40 root:INFO:(1, 0, 0, 0, 1, 1): 1666
+2023-05-30 Tuesday 01:45:40 root:INFO:(1, 1, 0, 0, 1, 1): 833
+2023-05-30 Tuesday 01:45:40 root:INFO:(3, 0, 1, 1, 1, 2): 774
+2023-05-30 Tuesday 01:45:40 root:INFO:********************
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean Reward=0.43 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean Stopped=28916.00 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_Stopped=28916.00 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean Waiting Time=382932.00 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_avg_speed=3958.79 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_avg_speed_2=73365.93 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_avg_speed_cross_check=85441.85 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_co2_emission_tl=30941450.74 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_co_emission_tl=888331.93 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_fuel_consumption_tl=13300.73 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_noise_emission_tl=607460.73 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_co2_emission=26340382.31 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_co_emission=607367.06 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_fuel_consumptions=11322.87 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:Mean_average_noise_emissions=615099.39 +/- 0.00
+2023-05-30 Tuesday 01:45:40 root:INFO:****************************************
+2023-05-30 Tuesday 01:45:40 root:INFO:Calculation 1 - Overall 
+2023-05-30 Tuesday 01:45:40 root:INFO:****************************************
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Reward=0.000 +/- 0.387
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Stopped= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Stopped Cross Check= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Waiting Time= 38.289 +/- 41.995
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Avg Speed= 0.396 +/- 0.154
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Avg Speed 2= 7.336 +/- 2.772
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Avg Speed Cross Check= 8.543 +/- 1.508
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average CO2 Emission TL= 3093.836 +/- 494.082
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average CO Emission TL= 88.824 +/- 25.166
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average Fuel Consumption TL= 1.330 +/- 0.212
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average Noise Emission TL= 60.740 +/- 2.374
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average CO2 Emission= 2633.775 +/- 422.137
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average CO Emission= 60.731 +/- 11.260
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average Fuel Consumptions= 1.132 +/- 0.181
+2023-05-30 Tuesday 01:45:40 root:INFO:Inner X Outer Loops Mean Average Noise Emissions= 61.504 +/- 1.361
+2023-05-30 Tuesday 01:45:40 root:INFO:****************************************
+2023-05-30 Tuesday 01:45:40 root:INFO:Calculation 2 - Per Episode
+2023-05-30 Tuesday 01:45:40 root:INFO:****************************************
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Waiting Time=0.000 +/- 0.387
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Reward= 0.000 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Reward= 0.000 +/- 0.387
+2023-05-30 Tuesday 01:45:40 root:INFO:****
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Stopped= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Stopped= 2.891 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Stopped= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:****
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Stopped Cross Check= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Stopped Cross Check= 2.891 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Stopped Cross Check= 2.891 +/- 1.513
+2023-05-30 Tuesday 01:45:40 root:INFO:****
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Waiting Time= 38.289 +/- 41.995
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Waiting Time= 38.289 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Waiting Time= 38.289 +/- 41.995
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Avg Speed= 0.396 +/- 0.154
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Avg Speed= 0.396 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Avg Speed= 0.396 +/- 0.154
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Avg Speed 2= 7.336 +/- 2.772
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Avg Speed 2= 7.336 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Avg Speed 2= 7.336 +/- 2.772
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Avg Speed Cross Check= 8.543 +/- 1.508
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Avg Speed Cross Check= 8.543 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Avg Speed Cross Check= 8.543 +/- 1.508
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average CO2 Emission TL= 3093.836 +/- 494.082
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average CO2 Emission TL= 3093.836 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average CO2 Emission TL= 3093.836 +/- 494.082
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average CO Emission TL= 88.824 +/- 25.166
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average CO Emission TL= 88.824 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average CO Emission TL= 88.824 +/- 25.166
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average Fuel Consumption TL= 1.330 +/- 0.212
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average Fuel Consumption TL= 1.330 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average Fuel Consumption TL= 1.330 +/- 0.212
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average Noise Emission TL= 60.740 +/- 2.374
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average Noise Emission TL= 60.740 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average Noise Emission TL= 60.740 +/- 2.374
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average CO2 Emission= 2633.775 +/- 422.137
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average CO2 Emission= 2633.775 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average CO2 Emission= 2633.775 +/- 422.137
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average CO Emission= 60.731 +/- 11.260
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average CO Emission= 60.731 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average CO Emission= 60.731 +/- 11.260
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average Fuel Consumption= 1.132 +/- 0.181
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average Fuel Consumption= 1.132 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average Fuel Consumption= 1.132 +/- 0.181
+2023-05-30 Tuesday 01:45:40 root:INFO:Episode:0 Mean Average Noise Emission= 61.504 +/- 1.361
+2023-05-30 Tuesday 01:45:40 root:INFO:1-Total Mean Average Noise Emission= 61.504 +/- 0.000
+2023-05-30 Tuesday 01:45:40 root:INFO:2-Total Mean Average Noise Emission= 61.504 +/- 1.361
+2023-05-30 Tuesday 01:45:40 root:INFO:****************************************
