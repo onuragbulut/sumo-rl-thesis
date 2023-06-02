@@ -11,8 +11,8 @@ run = 1
 headers = ['RunNo', 'ExperimentNo', 'Scenario', 'Type', 'InitialTrainingSeed', 'TestingSeed', 'LearningRate', 'DiscountRate', 'Epsilon', 'RewardType', 'MeanReward', 'MeanStopped', 'MeanWaitingTime', 'MeanAverageSpeed', 'MeanAverageSpeed2', 'MeanAverageSpeedCrossCheck']
 
 for index in range(1, 6):
-    csv_input_file_path = '../outputs/DE-Enhanced-S2/DE-Enhanced-S2-{}.csv'.format(index)
-    csv_output_file_path = '../outputs/DE-Enhanced-S2/DE-Enhanced-S2-{}-reduced.csv'.format(index)
+    csv_input_file_path = '../outputs/DE-Enhanced-S3/DE-Enhanced-S3-{}.csv'.format(index)
+    csv_output_file_path = '../outputs/DE-Enhanced-S3/DE-Enhanced-S3-{}-reduced.csv'.format(index)
     output_file_content = []
     with open(csv_input_file_path, newline='\n') as file:
         csv_reader = csv.reader(file, delimiter=',')
